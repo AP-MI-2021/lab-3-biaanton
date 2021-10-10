@@ -80,7 +80,7 @@ def get_power_of_k(nr: int,k: int):
 
 def get_longest_powers_of_k(lst: List[int], k:int) -> List[int]:
         '''
-
+        Determina cea mai lunga subsecventa cu proprietatea ca toate numerele se pot scrie ca x la puterea k
         :param lst: lista in care cautam subsecventa
         :param k: cifra dupa care vom selecta subsecventa
         :return: subsecventa cautata
